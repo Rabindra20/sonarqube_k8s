@@ -5,4 +5,4 @@ metadata:
   labels:
     app: postgres
 data:
-  url: psql -h 20.221.45.80:5432
+  url: psql -h :5432
