@@ -8,11 +8,11 @@ Login sonarqube dashboard<br>
 Add project and generate token in ui<br>
 Copy the configuration file and paste in local<br>
 Start sonarqube scanner <br>
-For new quality profile<br>
+## For new quality profile
 Create new quality profile and add rules<br>
 For github Action <br>
 Add configuration in workflow and add env secrets (like sonar_token and sonar_host_url)<br>
-For custom rule<br>
+## For custom rule
 Goto rules<br>
 Click on template and create new rule<br>
 
